@@ -74,3 +74,13 @@
       @apply bg-background text-foreground;
     }
   }
+:root{
+  
+  --dark-purple: hsla(309, 70%, 9%, 1);
+--french-violet: hsla(268, 76%, 48%, 1);
+--jordy-blue: hsla(214, 98%, 77%, 1);
+--honeydew: hsla(95, 100%, 95%, 1);
+--honeydew-2: hsla(124, 100%, 97%, 1);
+
+
+}
