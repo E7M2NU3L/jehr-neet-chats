@@ -5,7 +5,7 @@ const Foot = () => {
     const date = new Date();
     const Fullyear = date.getFullYear();
     return (
-    <div className='min-h-[45vh] bg-dark-rich_black-200  w-full flex flex-col justify-around py-[2rem]'>
+    <div className='min-h-[45vh] bg-dark-french_violet-400  w-full flex flex-col justify-around py-[2rem]'>
 
         <section className='flex justify-around items-center px-[2rem] flex-col sm:flex-row '>
         <main className='flex flex-col gap-y-[0.8rem] w-full'>
